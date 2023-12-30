@@ -38,7 +38,7 @@ ENABLE_ALARM                     := 0
 ENABLE_TX_TONE_HZ                := 1750
 #
 # MDC1200 2.8 kB
-ENABLE_MDC1200                   := 0
+ENABLE_MDC1200                   := 1
 ENABLE_MDC1200_SHOW_OP_ARG       := 1
 ENABLE_MDC1200_SIDE_BEEP         := 1
 #
