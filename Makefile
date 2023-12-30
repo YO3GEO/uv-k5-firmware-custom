@@ -44,7 +44,7 @@ ENABLE_MDC1200_SIDE_BEEP         := 1
 #
 ENABLE_PWRON_PASSWORD            := 0
 ENABLE_RESET_AES_KEY             := 0
-ENABLE_BIG_FREQ                  := 0
+ENABLE_BIG_FREQ                  := 1
 #
 # DTMF_CALLING 2.8 kB
 ENABLE_DTMF_CALLING              := 0
@@ -56,7 +56,7 @@ ENABLE_DTMF_KILL_REVIVE          := 0
 #
 ENABLE_SHOW_FREQ_IN_CHAN         := 1
 # small bold 580 B
-ENABLE_SMALL_BOLD                := 1
+ENABLE_SMALL_BOLD                := 0
 # smallest font 2 kB
 #ENABLE_SMALLEST_FONT            := 0
 # trim trailing 44 B
@@ -92,7 +92,7 @@ ENABLE_SQ_OPEN_WITH_UP_DN_BUTTS  := 1
 ENABLE_FASTER_CHANNEL_SCAN       := 1
 ENABLE_COPY_CHAN_TO_VFO_TO_CHAN  := 1
 # Tx Audio Bar 300 B
-ENABLE_TX_AUDIO_BAR              := 0
+ENABLE_TX_AUDIO_BAR              := 1
 ENABLE_TX_AUDIO_BACKLIGHT        := 0
 # Side Button Menu 300 B
 ENABLE_SIDE_BUTT_MENU            := 0
