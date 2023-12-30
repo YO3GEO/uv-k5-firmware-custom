@@ -54,7 +54,7 @@ ENABLE_DTMF_CALL_FLASH_LIGHT     := 0
 # Kill and Revive 400 B
 ENABLE_DTMF_KILL_REVIVE          := 0
 #
-ENABLE_SHOW_FREQ_IN_CHAN         := 1
+ENABLE_SHOW_FREQ_IN_CHAN         := 0
 # small bold 580 B
 ENABLE_SMALL_BOLD                := 0
 # smallest font 2 kB
