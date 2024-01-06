@@ -1,3 +1,17 @@
+# Activated ENABLE_TX_AUDIO_BAR
+When I activated "ENABLE_TX_AUDIO_BAR" I had an error that led to the invalidation of 2 lines in ui/main.c...
+
+
+
+
+
+
+
+
+
+
+
+
 # Open reimplementation of the Quan Sheng UV-K5 v2.1.27 firmware
 
 This repository is a cloned and customized version of DualTachyon's open firmware found here ..
