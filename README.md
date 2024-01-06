@@ -1,5 +1,5 @@
 # Activated ENABLE_TX_AUDIO_BAR
-When I activated "ENABLE_TX_AUDIO_BAR" I had an error that led to the invalidation of 2 lines in ui/main.c...
+When I activated "ENABLE_TX_AUDIO_BAR" I had an error that led to the cancellation of 2 lines in ui/main.c...
 
 
 
