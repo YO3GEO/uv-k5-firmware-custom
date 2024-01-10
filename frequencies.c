@@ -56,7 +56,7 @@ const freq_band_table_t FREQ_BAND_TABLE[7] =
 #ifdef ENABLE_NOAA
 	const uint32_t NOAA_FREQUENCY_TABLE[10] =
 	{
-		16255000,
+		44612500,
 		16240000,
 		16247500,
 		16242500,
