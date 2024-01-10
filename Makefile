@@ -26,7 +26,7 @@ ENABLE_FMRADIO_875_108           := 1
 ENABLE_FMRADIO_64_108            := 0
 #
 # NOAA 1.2 kB
-ENABLE_NOAA                      := 1
+ENABLE_NOAA                      := 0
 # Voice 1.7 kB
 ENABLE_VOICE                     := 0
 ENABLE_MUTE_RADIO_FOR_VOICE      := 0
@@ -39,8 +39,8 @@ ENABLE_TX_TONE_HZ                := 1750
 #
 # MDC1200 2.8 kB
 ENABLE_MDC1200                   := 0
-ENABLE_MDC1200_SHOW_OP_ARG       := 0
-ENABLE_MDC1200_SIDE_BEEP         := 0
+ENABLE_MDC1200_SHOW_OP_ARG       := 1
+ENABLE_MDC1200_SIDE_BEEP         := 1
 #
 ENABLE_PWRON_PASSWORD            := 0
 ENABLE_RESET_AES_KEY             := 0
@@ -48,7 +48,7 @@ ENABLE_BIG_FREQ                  := 1
 #
 # DTMF_CALLING 2.8 kB
 ENABLE_DTMF_CALLING              := 0
-ENABLE_DTMF_LIVE_DECODER         := 0
+ENABLE_DTMF_LIVE_DECODER         := 1
 ENABLE_DTMF_TIMING_SETTINGS      := 0
 ENABLE_DTMF_CALL_FLASH_LIGHT     := 0
 # Kill and Revive 400 B
